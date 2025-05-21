@@ -1,7 +1,8 @@
 # q-exec-ts
+
 QueuedExecutor in TypeScript
 
-# Usage
+## Usage
 
 ```typescript
 
@@ -41,7 +42,7 @@ QueuedExecutor in TypeScript
   
   ...
   
-  executor.inputStreamClosed();
+  executor.inputStreamClosed(); // to close the queue
   
   ...
   
@@ -49,10 +50,10 @@ QueuedExecutor in TypeScript
 
 ```
 
-# Author
+## Author
 
 @arpad1337
 
-# License
+## License
 
 MIT
